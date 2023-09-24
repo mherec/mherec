@@ -1,3 +1,3 @@
-import {hello} from './engine'
+import {hello} from './engines'
 
 hello.world('console.log');
